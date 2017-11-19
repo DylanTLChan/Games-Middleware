@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Animations & Networking Assets/Scenes/Scene 1.unity
+  isLoaded: 1
+  isActive: 1
